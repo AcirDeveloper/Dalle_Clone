@@ -6,3 +6,5 @@ Folder Client contains the React App Constructed with Vite and TailwindCSS.
 - NPM: 9.3.1
 
 Folder Server contains the MongoDB Database and the NodeJS Server.
+
+Continuous
